@@ -1,0 +1,11 @@
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\bin\Debug\HappyFeetApp.exe.config
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\bin\Debug\HappyFeetApp.exe
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\bin\Debug\HappyFeetApp.pdb
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\obj\Debug\HappyFeetApp.csproj.AssemblyReference.cache
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\obj\Debug\HappyFeetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\obj\Debug\HappyFeetApp.Form1.resources
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\obj\Debug\HappyFeetApp.Properties.Resources.resources
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\obj\Debug\HappyFeetApp.csproj.GenerateResource.cache
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\obj\Debug\HappyFeetApp.csproj.CoreCompileInputs.cache
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\obj\Debug\HappyFeetApp.exe
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\HappyFeetApp\obj\Debug\HappyFeetApp.pdb
