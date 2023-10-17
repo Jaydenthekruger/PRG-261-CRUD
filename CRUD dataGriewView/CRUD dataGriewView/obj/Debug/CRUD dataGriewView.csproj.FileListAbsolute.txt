@@ -1,0 +1,24 @@
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\bin\Debug\CRUD dataGriewView.exe.config
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\bin\Debug\CRUD dataGriewView.exe
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\bin\Debug\CRUD dataGriewView.pdb
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.csproj.AssemblyReference.cache
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.csproj.SuggestedBindingRedirects.cache
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD_dataGriewView.Form1.resources
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD_dataGriewView.Form2.resources
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD_dataGriewView.Properties.Resources.resources
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.csproj.GenerateResource.cache
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.csproj.CoreCompileInputs.cache
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.exe
+C:\Users\vuman\OneDrive\Documents\Belgium Campus Files Work\PRG 252\Work code in class\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.pdb
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\bin\Debug\CRUD dataGriewView.exe.config
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\bin\Debug\CRUD dataGriewView.exe
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\bin\Debug\CRUD dataGriewView.pdb
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.csproj.AssemblyReference.cache
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD_dataGriewView.Form1.resources
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD_dataGriewView.Form2.resources
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD_dataGriewView.Properties.Resources.resources
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.csproj.GenerateResource.cache
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.csproj.CoreCompileInputs.cache
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.exe
+C:\Users\Habakkuk\OneDrive\Documents\Belgium Campus ITversity\PRG 252\Visual Studio\CRUD dataGriewView\CRUD dataGriewView\obj\Debug\CRUD dataGriewView.pdb
